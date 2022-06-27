@@ -1,0 +1,10 @@
+ div.van-grid-item__content {
+     background-color: rgb(235, 235, 235);
+     border: 1px solid white;
+ }
+ 
+ div.van-grid-item__focus {
+     background-color: rgba(109, 242, 252, 0.5);
+     color: rgb(20, 193, 187);
+     border: 1px solid rgb(20, 193, 187);
+ }
