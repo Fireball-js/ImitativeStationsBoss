@@ -68,7 +68,7 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
 .choosewrap_main h1 {
   font-size: 0.25rem;
   margin: 0.3rem;
@@ -81,5 +81,8 @@ export default {
 .choosewrap_btn button {
   width: 2rem;
   margin: 0 0.3rem;
+}
+.van-grid /deep/ .van-grid-item__text {
+  pointer-events: none;
 }
 </style>

@@ -12,7 +12,7 @@
       <van-swipe-item class="loginBg loginBg_3"></van-swipe-item>
     </van-swipe>
     <div class="login_btn">
-      <van-button type="primary">我要招人</van-button>
+      <van-button type="primary" to="/wait">我要招人</van-button>
       <van-button type="primary" to="/joblist">我要应聘</van-button>
     </div>
   </div>
